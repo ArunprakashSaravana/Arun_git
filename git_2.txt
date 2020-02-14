@@ -1,1 +1,2 @@
 hai this i sthe second file to git testing
+git files edit t use to reset command update
